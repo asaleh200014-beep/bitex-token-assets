@@ -1,2 +1,7 @@
-# bitex-token-assets
-This repository contains the official logo and assets for the Bitex (BIT) token on Polygon, for use in token lists and wallets.
+<p align="center">
+  <img src="bitex.png" alt="Bitex Logo" width="180"/>
+</p>
+
+# Bitex (BIT)
+
+Official Bitex token repository.
